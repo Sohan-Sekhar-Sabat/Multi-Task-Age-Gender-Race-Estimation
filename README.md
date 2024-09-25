@@ -15,7 +15,7 @@ The project focuses on four key architectures:
 1.Custom CNN
 2. MobileNet V2
 3. MobileNet V3
-4. EfficientNet B3
+4. EfficientNet B1
 
 Each model is modified with three prediction heads for age, gender, and race estimation. These heads work together to capture nuanced facial features and improve prediction performance.
 
